@@ -1,0 +1,31 @@
+CustomerID,Gender,SeniorCitizen,Tenure,MonthlyCharges,TotalCharges,Contract,PaymentMethod,Churn
+2031,Female,0,12,74.50,894.0,Month-to-month,Electronic check,Yes
+2032,Male,0,46,63.20,2907.2,One year,Bank transfer,No
+2033,Female,1,7,98.40,688.8,Month-to-month,Electronic check,Yes
+2034,Male,0,60,72.60,4356.0,Two year,Credit card,No
+2035,Female,0,18,69.10,1243.8,Month-to-month,Mailed check,Yes
+2036,Male,1,5,105.80,529.0,Month-to-month,Electronic check,Yes
+2037,Female,0,33,58.70,1937.1,One year,Bank transfer,No
+2038,Male,0,49,67.90,3327.1,Two year,Credit card,No
+2039,Female,1,9,91.20,820.8,Month-to-month,Electronic check,Yes
+2040,Male,0,27,55.30,1493.1,One year,Mailed check,No
+2041,Female,0,15,76.40,1146.0,Month-to-month,Electronic check,Yes
+2042,Male,1,11,102.70,1129.7,Month-to-month,Electronic check,Yes
+2043,Female,0,42,61.80,2595.6,One year,Bank transfer,No
+2044,Male,0,54,70.40,3801.6,Two year,Credit card,No
+2045,Female,1,8,96.30,770.4,Month-to-month,Mailed check,Yes
+2046,Male,0,21,57.60,1209.6,One year,Credit card,No
+2047,Female,0,36,65.90,2372.4,One year,Bank transfer,No
+2048,Male,1,10,109.20,1092.0,Month-to-month,Electronic check,Yes
+2049,Female,0,51,68.30,3483.3,Two year,Credit card,No
+2050,Male,0,17,82.40,1400.8,Month-to-month,Mailed check,Yes
+2051,Female,1,6,94.70,568.2,Month-to-month,Electronic check,Yes
+2052,Male,0,29,60.10,1742.9,One year,Bank transfer,No
+2053,Female,0,57,71.80,4092.6,Two year,Credit card,No
+2054,Male,1,9,103.50,931.5,Month-to-month,Electronic check,Yes
+2055,Female,0,23,66.20,1522.6,Month-to-month,Mailed check,Yes
+2056,Male,0,41,62.40,2558.4,One year,Bank transfer,No
+2057,Female,1,7,99.90,699.3,Month-to-month,Electronic check,Yes
+2058,Male,0,58,73.10,4240.0,Two year,Credit card,No
+2059,Female,0,26,59.80,1554.8,One year,Mailed check,No
+2060,Male,1,10,107.40,1074.0,Month-to-month,Electronic check,Yes
